@@ -6,4 +6,9 @@ KELAS :TK4A
 
 NIM : 09030282327039
 
-<img src="17389033903874946800820435171505.jpg" width=400 height=200>
+<img src="1-3" width=400 height=200>
+
+<img src="3-5" width=400 height=200>
+
+<img src="6" width=400 height=200>
+
