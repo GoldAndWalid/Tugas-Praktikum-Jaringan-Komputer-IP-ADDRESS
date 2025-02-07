@@ -12,3 +12,4 @@ NIM : 09030282327039
 
 <img src="6.jpeg" width=400 height=430>
 
+<img src="1-3" width=400 height=200>
